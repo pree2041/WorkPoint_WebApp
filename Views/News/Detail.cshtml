@@ -1,0 +1,74 @@
+﻿@using WorkPoint_WebApp.Shared.DataTransferObjects
+@model NewsReturnDto
+
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="utf-8" />
+    <title>@Model.Title</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .header {
+            background: linear-gradient(90deg, #F2D600, #A5D804);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .news-detail {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+            .news-detail img {
+                max-width: 100%;
+                height: auto;
+                border-radius: 8px;
+            }
+
+            .news-detail h1 {
+                color: #d9534f;
+            }
+
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>รายละเอียดข่าวสาร</h1>
+    </div>
+
+    <div class="container mt-4">
+        <div class="news-detail">
+            <h1>@Model.Title</h1>
+            <p>@Model.Detail1</p>
+            <div class="image-grid">
+                @for (int i = 1; i <= 10; i++)
+                {
+                    var pictureProperty = typeof(NewsReturnDto).GetProperty($"Picture{i}");
+                    var pictureUrl = (string)pictureProperty.GetValue(Model);
+
+                    if (!string.IsNullOrEmpty(pictureUrl))
+                    {
+                        <img src="@Url.Content(pictureUrl)" alt="@Model.Title" />
+                    }
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <a href="@Url.Action("View")" class="btn btn-primary">กลับไปยังหน้าข่าวสาร</a>
+    </div>
+</body>
+</html>

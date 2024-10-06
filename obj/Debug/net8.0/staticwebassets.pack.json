@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WorkPoint_WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WorkPoint_WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_00000000-0000-0000-0000-000000000000_06102024_140917.jpg",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_00000000-0000-0000-0000-000000000000_06102024_140917.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_00000000-0000-0000-0000-000000000000_06102024_141401.jpg",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_00000000-0000-0000-0000-000000000000_06102024_141401.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_00000000-0000-0000-0000-000000000000_06102024_141417.jpg",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_00000000-0000-0000-0000-000000000000_06102024_141417.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_050d1f64-50f3-4123-9464-775aaac5534e_20241006_142108.jpg",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_050d1f64-50f3-4123-9464-775aaac5534e_20241006_142108.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_7bf09780-2018-4d87-9f33-0ba2030b7940_20241006_142036.jpg",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_7bf09780-2018-4d87-9f33-0ba2030b7940_20241006_142036.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151716.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151716.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151729.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151729.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151749.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151749.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_153347.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_153347.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_222205.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_222205.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_222321.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_222321.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_225414.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_225414.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_232429.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_232429.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_233557.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_233557.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture1_b6a89fe4-dca6-4153-971e-5e51320e029c_06102024_141654.jpg",
+      "PackagePath": "staticwebassets\\Picture\\Picture1_b6a89fe4-dca6-4153-971e-5e51320e029c_06102024_141654.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture2_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151716.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture2_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151716.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture2_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151729.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture2_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151729.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture2_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_153240.jpg",
+      "PackagePath": "staticwebassets\\Picture\\Picture2_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_153240.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture2_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_153347.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture2_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_153347.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture2_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_232429.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture2_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_232429.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture3_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151716.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture3_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151716.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture3_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151729.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture3_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_151729.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture3_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_232429.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture3_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_232429.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture4_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_232429.png",
+      "PackagePath": "staticwebassets\\Picture\\Picture4_87012440-cbd4-4f14-c431-08dce5d2c39f_20241006_232429.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\Picture\\Picture5_e583b624-a47c-461d-b089-97b88786d2e7_20241006_142403.jpg",
+      "PackagePath": "staticwebassets\\Picture\\Picture5_e583b624-a47c-461d-b089-97b88786d2e7_20241006_142403.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WorkPoint_WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WorkPoint_WebApp.props",
+      "PackagePath": "build\\WorkPoint_WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WorkPoint_WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WorkPoint_WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WorkPoint_WebApp.props",
+      "PackagePath": "buildTransitive\\WorkPoint_WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,117 @@
+﻿@model WorkPoint_WebApp.Shared.DataTransferObjects.NewsDto
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create News</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data" id="newsForm">
+    <div class="form-group">
+        <label asp-for="Title" class="control-label"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Detail1" class="control-label"></label>
+        <textarea asp-for="Detail1" class="form-control"></textarea>
+        <span asp-validation-for="Detail1" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Detail2" class="control-label"></label>
+        <textarea asp-for="Detail2" class="form-control"></textarea>
+        <span asp-validation-for="Detail2" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Detail3" class="control-label"></label>
+        <textarea asp-for="Detail3" class="form-control"></textarea>
+        <span asp-validation-for="Detail3" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Picture1" class="control-label">Upload Picture 1</label>
+        <input type="file" asp-for="Picture1" class="form-control-file" />
+        <span asp-validation-for="Picture1" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Picture2" class="control-label">Upload Picture 2</label>
+        <input type="file" asp-for="Picture2" class="form-control-file" />
+        <span asp-validation-for="Picture2" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Picture3" class="control-label">Upload Picture 3</label>
+        <input type="file" asp-for="Picture3" class="form-control-file" />
+        <span asp-validation-for="Picture3" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Picture4" class="control-label">Upload Picture 4</label>
+        <input type="file" asp-for="Picture4" class="form-control-file" />
+        <span asp-validation-for="Picture4" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Picture5" class="control-label">Upload Picture 5</label>
+        <input type="file" asp-for="Picture5" class="form-control-file" />
+        <span asp-validation-for="Picture5" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Picture6" class="control-label">Upload Picture 6</label>
+        <input type="file" asp-for="Picture6" class="form-control-file" />
+        <span asp-validation-for="Picture6" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Picture7" class="control-label">Upload Picture 7</label>
+        <input type="file" asp-for="Picture7" class="form-control-file" />
+        <span asp-validation-for="Picture7" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Picture8" class="control-label">Upload Picture 8</label>
+        <input type="file" asp-for="Picture8" class="form-control-file" />
+        <span asp-validation-for="Picture8" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Picture9" class="control-label">Upload Picture 9</label>
+        <input type="file" asp-for="Picture9" class="form-control-file" />
+        <span asp-validation-for="Picture9" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Picture10" class="control-label">Upload Picture 10</label>
+        <input type="file" asp-for="Picture10" class="form-control-file" />
+        <span asp-validation-for="Picture10" class="text-danger"></span>
+    </div>
+    <!-- Add more file upload fields if needed -->
+
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    @* @await Html.RenderPartialAsync("_ValidationScriptsPartial") *@
+    <script>
+        $(document).ready(function () {
+            // จับเหตุการณ์การส่งฟอร์ม
+            $("#newsForm").submit(function (event) {
+                event.preventDefault(); // หยุดการส่งฟอร์มตามปกติ
+
+                $.ajax({
+                    type: "POST",
+                    url: $(this).attr('action'),
+                    data: new FormData(this), // ส่งข้อมูลฟอร์ม
+                    contentType: false, // ตั้งค่า contentType เป็น false
+                    processData: false, // ไม่ต้องประมวลผลข้อมูล
+                    success: function (result) {
+                        console.log(result); // Log the result for debugging
+                        if (!result.success) {
+                            alert(result.message); // แสดง alert ถ้ามีข้อผิดพลาด
+                        } else {
+                            // ถ้าสำเร็จให้ redirect หรือแสดงข้อความสำเร็จ
+                            window.location.href = '@Url.Action("Manage")'; // ตัวอย่างการ redirect
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        alert("เกิดข้อผิดพลาดในการส่งข้อมูล: " + error);
+                    }
+                });
+            });
+        });
+    </script>
+}

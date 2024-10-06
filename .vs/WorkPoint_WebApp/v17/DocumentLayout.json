@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\views\\news\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:views\\news\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\views\\news\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:views\\news\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\views\\news\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:views\\news\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\shared\\datatransferobjects\\newsdto.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:shared\\datatransferobjects\\newsdto.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\shared\\datatransferobjects\\newsreturndto.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:shared\\datatransferobjects\\newsreturndto.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\shared\\parameters\\newsparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:shared\\parameters\\newsparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\migrations\\20241005155435_initialmigraion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:migrations\\20241005155435_initialmigraion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\entities\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:entities\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|c:\\users\\legion5\\desktop\\webapplication\\mvc\\workpoint_webapp\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BCA64-5903-4889-86A4-DD37B8414086}|WorkPoint_WebApp.csproj|solutionrelative:data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\News\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\News\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\News\\Detail.cshtml",
+              "RelativeToolTip": "Views\\News\\Detail.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwEYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T16:41:15.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\News\\View.cshtml",
+              "RelativeDocumentMoniker": "Views\\News\\View.cshtml",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\News\\View.cshtml",
+              "RelativeToolTip": "Views\\News\\View.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T16:12:23.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "Services\\NewsService.cs",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Services\\NewsService.cs",
+              "RelativeToolTip": "Services\\NewsService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:10:44.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewsParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Shared\\Parameters\\NewsParameters.cs",
+              "RelativeDocumentMoniker": "Shared\\Parameters\\NewsParameters.cs",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Shared\\Parameters\\NewsParameters.cs",
+              "RelativeToolTip": "Shared\\Parameters\\NewsParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:04:21.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\NewsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:56:27.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:48:48.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\News\\Manage.cshtml",
+              "RelativeDocumentMoniker": "Views\\News\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\News\\Manage.cshtml",
+              "RelativeToolTip": "Views\\News\\Manage.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T17:53:49.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T06:34:07.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "Views\\News\\Create.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAGoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T06:32:17.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T17:34:46.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewsReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Shared\\DataTransferObjects\\NewsReturnDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\NewsReturnDto.cs",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Shared\\DataTransferObjects\\NewsReturnDto.cs",
+              "RelativeToolTip": "Shared\\DataTransferObjects\\NewsReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:15:31.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Shared\\DataTransferObjects\\NewsDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\NewsDto.cs",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Shared\\DataTransferObjects\\NewsDto.cs",
+              "RelativeToolTip": "Shared\\DataTransferObjects\\NewsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:02:38.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\News\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Views\\News\\Edit.cshtml",
+              "RelativeToolTip": "Views\\News\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwC4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T08:00:51.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\MappingProfile.cs",
+              "RelativeToolTip": "MappingProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:33:58.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241005155435_InitialMigraion.cs",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Migrations\\20241005155435_InitialMigraion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241005155435_InitialMigraion.cs",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Migrations\\20241005155435_InitialMigraion.cs",
+              "RelativeToolTip": "Migrations\\20241005155435_InitialMigraion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:54:35.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Data\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Data\\ApplicationDbContext .cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:46:37.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Entities\\Models\\News.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\Legion5\\Desktop\\WebApplication\\Mvc\\WorkPoint_WebApp\\Entities\\Models\\News.cs",
+              "RelativeToolTip": "Entities\\Models\\News.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:43:19.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

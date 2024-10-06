@@ -1,0 +1,102 @@
+﻿@using WorkPoint_WebApp.Shared.DataTransferObjects
+@model PagedList<NewsReturnDto>
+
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="utf-8" />
+    <title>ข้อมูลข่าวสาร</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .header {
+            background: linear-gradient(90deg, #F2D600, #A5D804);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .parent {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); /* สร้าง 4 คอลัมน์ */
+            grid-column-gap: 15px; /* ระยะห่างระหว่างคอลัมน์ */
+            grid-row-gap: 15px; /* ระยะห่างระหว่างแถว */
+        }
+
+        .news-item {
+            border-radius: 8px;
+            overflow: hidden;
+            background: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: relative;
+            height: 250px; /* ปรับความสูงของการ์ด */
+            display: flex; /* เพื่อจัดแนวเนื้อหา */
+            flex-direction: column; /* จัดแนวเนื้อหาในแนวตั้ง */
+        }
+
+            .news-item img {
+                max-width: 100%;
+                height: 150px; /* ปรับความสูงของรูปภาพ */
+                object-fit: cover;
+            }
+
+            .news-item p {
+                padding: 10px; /* ปรับระยะห่างในข้อความ */
+                font-size: 14px;
+                color: #333;
+                flex-grow: 1; /* ให้ข้อความขยายตัวเพื่อใช้พื้นที่ที่เหลือ */
+            }
+
+            .news-item h5 {
+                margin: 0;
+                font-size: 16px;
+                color: #d9534f;
+                padding: 10px; /* เพิ่ม padding เพื่อให้มีระยะห่าง */
+            }
+
+        .see-more {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+            .see-more a {
+                background-color: #d9534f;
+                color: white;
+                padding: 10px 20px;
+                border-radius: 5px;
+                text-decoration: none;
+            }
+
+        .container {
+            margin-top: 125px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>ข้อมูลข่าวสาร</h1>
+    </div>
+
+    <div class="container">
+        <div class="parent">
+            @foreach (var news in Model)
+            {
+                <a href="@Url.Action("Detail", "News", new { id = news.Id })" class="news-item">
+                    <img src="@Url.Content(news.Picture1)" alt="@news.Title" />
+                    <div class="p-2">
+                        <h5>@news.Title</h5>
+                        <p>@news.Detail1</p>
+                    </div>
+                </a>
+            }
+        </div>
+    </div>
+
+    <div class="see-more">
+        <a href="#">ดูเพิ่มเติม</a>
+    </div>
+</body>
+</html>

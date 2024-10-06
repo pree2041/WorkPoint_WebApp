@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WorkPoint_WebApp.props" />
+</Project>
