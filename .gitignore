@@ -1,0 +1,23 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.dll
+*.exe
+*.pdb
+*.appx
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+
+# Ignore everything in wwwroot except the Pictures folder
+/wwwroot/*
+!/wwwroot/Pictures/

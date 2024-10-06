@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkPoint_WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cf628744c4c1e30200e4942ac76adcd66a2f5c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkPoint_WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkPoint_WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
